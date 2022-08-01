@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/GDD-Project/Scenes/Level1.unity
+- path: Assets/GDD-Project/Scenes/MainMenu.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
